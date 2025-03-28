@@ -30,16 +30,16 @@ Each file includes the following columns:
 ### FBL2023
 
 | Mapping Number | Label |
-| :--------------: | :----- |
-| 1  | Item A and Item B have the same function/use.|
-| 2  | Item B supplements Item A.|
-| 3  | Item A supplements Item B.|
-| 4  | Item A and Item B require being combined for use.|
-| 5  | Combining Item B with Item A is convenient.|
-| 6  | Combining Item A with Item B is convenient.|
-| 7  | Combining both Item A and Item B is convenient.|
-| 8  | Item A and Item B are completely unrelated.|
-| 9  | There appears to be some relationship between Item A and Item B, but it is difficult to articulate.|
+| :--------------: | ----- |
+| 1  | Items A and B have the same function and usage. |
+| 2  | Item A can be replenished with item B. |
+| 3  | Item B can be replenished with item A. |
+| 4  | Item A and B must be combined to be usable. |
+| 5  | When combined with item B, item A becomes more useful. |
+| 6  | When combined with item A, item B becomes more useful. |
+| 7  | Combining A and B makes them more useful. |
+| 8  | Items A and B have no relationship. |
+| 9  | Items A and B seem to have a relationship, but it is difficult to verbalize. |
 
 *Note: Any response that does not match one of the specified labels will be treated as a missing value.*
 
@@ -47,8 +47,8 @@ Each file includes the following columns:
 ### FBL2024
 
 | Mapping Number  | Label |
-| :-------------: | :---- |
-| 1 | Substitution relationship  |
+| :-------------: | ----- |
+| 1 | Substitute relationship  |
 | 2 | Complementary relationship |
 | 3 | Other relationship         |
 
