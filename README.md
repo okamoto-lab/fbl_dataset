@@ -1,4 +1,4 @@
-# Function-based Label for Complementary Recommendation Dataset
+# Function-based Label Dataset for Complementary Recommendation
 
 This repository provides the FBL2023.tsv and FBL2024.tsv datasets along with their specification documents. The datasets are formatted as TSV files using UTF-8 encoding with tab-delimited values.
 
