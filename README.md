@@ -57,9 +57,9 @@ Each file includes the following columns:
 For further details and the underlying methodology, please refer to the following paper:
 
 - **Reference Paper 1:**
-  *Title:* [Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation](https://doi.org/10.1145/3640457.3691705)
-  *Authors:* Kai Sugahara, Chihiro Yamasaki, Kazushi Okamoto
-  *Conference:* Proceedings of the 18th ACM Conference on Recommender Systems (RecSys2024), pp.1091-1095, 2024.10
+  - *Title:* [Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation](https://doi.org/10.1145/3640457.3691705)
+  - *Authors:* Kai Sugahara, Chihiro Yamasaki, Kazushi Okamoto
+  - *Conference:* Proceedings of the 18th ACM Conference on Recommender Systems (RecSys2024), pp.1091-1095, 2024.10
 
 ## Acknowledgements
 
