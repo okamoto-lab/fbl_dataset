@@ -31,15 +31,15 @@ Each file includes the following columns:
 
 | Mapping Number | Label |
 | :--------------: | ----- |
-| 1  | Items A and B have the same function and usage. |
-| 2  | Item A can be replenished with item B. |
-| 3  | Item B can be replenished with item A. |
-| 4  | Item A and B must be combined to be usable. |
-| 5  | When combined with item B, item A becomes more useful. |
-| 6  | When combined with item A, item B becomes more useful. |
-| 7  | Combining A and B makes them more useful. |
-| 8  | Items A and B have no relationship. |
-| 9  | Items A and B seem to have a relationship, but it is difficult to verbalize. |
+| 1  | Items 1 and 2 have the same function and usage. |
+| 2  | Item 1 can be replenished with item 2. |
+| 3  | Item 2 can be replenished with item 1. |
+| 4  | Item 1 and 2 must be combined to be usable. |
+| 5  | When combined with item 2, item 1 becomes more useful. |
+| 6  | When combined with item 1, item 2 becomes more useful. |
+| 7  | Combining 1 and 2 makes them more useful. |
+| 8  | Items 1 and 2 have no relationship. |
+| 9  | Items 1 and 2 seem to have a relationship, but it is difficult to verbalize. |
 
 *Note: Any response that does not match one of the specified labels will be treated as a missing value.*
 
